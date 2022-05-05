@@ -12,4 +12,15 @@ git push -u origin main
 …or push an existing repository from the command line
 git remote add origin https://github.com/FishStealer05/Teszt1.git
 git branch -M main
-git push -u origin main
+további terminál parancsok
+git pull   origin main friss repo lekérdezése
+git remote -v  távoli repo lekérdezése aktuális távoli repo lekérdezése
+git status # change stage commit, 
+állapotának lekérdezése
+cd #Change Directory 
+mkdir # MAke Directory 
+cd.. egy mappával lejjebb lép
+cd  <directory name>
+  rmdir <directory name>  # remove directory
+  ls #list könytár listázása
+  git config global list  # globális  beállítások listázása
