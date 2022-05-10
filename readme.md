@@ -7,9 +7,10 @@ git add README.md változások mentése
 git commit -m "first commit" változtatások jóváhagyása 
 git branch -M main a fejlesztéso ág átnevezése main-re 
 git remote add origin https://github.com/FishStealer05/Teszt1.git fejlesztési ág feltöltése első alkalommal.
-git push -u origin main
+git push -u origin main #feltölti az origin nevű távoli repóba a commitokat.
 
 …or push an existing repository from the command line
+
 git remote add origin https://github.com/FishStealer05/Teszt1.git
 git branch -M main
 további terminál parancsok
@@ -24,3 +25,4 @@ cd  <directory name>
   rmdir <directory name>  # remove directory
   ls #list könytár listázása
   git config global list  # globális  beállítások listázása
+origin main #lehívása
